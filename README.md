@@ -1,4 +1,4 @@
-# Ex02 Time Table
+# Ex04 Time Table
 ## Date:21/11/2026
 
 ## AIM
@@ -28,19 +28,11 @@ Execute the program using runserver command.
 
 ## PROGRAM
 ```
+slot.html
 <html>
     <head>
         <title> TIMETABLE</title>
-        <style>
-            table{
-                
-                text-align:center
-                ;
-            }
-            th{
-                color:rgb(237, 227, 237)
-            }
-        </style>
+        
     </head>
     <body bgcolor="">
         <center>
