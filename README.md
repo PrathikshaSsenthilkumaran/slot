@@ -133,12 +133,14 @@ slot.html
 
     </body>
 </html>
+```
 
 
 
 
 ## OUTPUT
-![alt text](<Screenshot (30).png>)
+![alt text](<Screenshot (33).png>)
+
 
 
 ## RESULT
