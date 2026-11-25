@@ -37,7 +37,7 @@ slot.html
     <body bgcolor="">
         <center>
 <img src="logo.png" width="800">
-<h2>my TIME TABLE - Prathiksha(26002593)</h2>
+<h2>MY TIME TABLE - Prathiksha(26002593)</h2>
 <table border="1" cellspacing="5" cellpadding="10">
     <tr bgcolor="lightblue">
         <th>DAY/TIME</th>
@@ -49,36 +49,36 @@ slot.html
         <th>SATURDAY</th>
     <tr>
         <td bgcolor="cyan">8 - 9:30</td>
+        <td bgcolor="babypink">software engineering</td>
+        <td bgcolor="babypink">cryptocurrency</td>
+        <td bgcolor="babypink">cyber law</td>
         <td bgcolor="babypink">CA</td>
-        <td bgcolor="babypink">MATH AI</td>
-        <td bgcolor="babypink">MATH AI</td>
-        <td bgcolor="babypink">PYTHON</td>
-        <td bgcolor="babypink">MATH AI</td>
-        <td bgcolor="babypink">PYTHON</td>
+        <td bgcolor="babypink">cryptocurrency</td>
+        <td bgcolor="babypink">free slot</td>
        
     </tr>
     <tr>
         <td bgcolor="cyan">9:45 - 11:15</td>
-        <td bgcolor="babypink">PYTHON</td>
-        <td bgcolor="babypink">FWAD</td>
-        <td bgcolor="babypink">FREE SLOT</td>
+        <td bgcolor="babypink">software engineering</td>
+        <td bgcolor="babypink">CA</td>
+        <td bgcolor="babypink">free slot</td>
         <td bgcolor="babypink">JAP</td>
-        <td bgcolor="babypink">FWAD</td>
+        <td bgcolor="babypink">free slot</td>
         <td bgcolor="babypink">CA</td>
     </tr>
     <tr>
         <td bgcolor="cyan">1:15 - 2:45</td>
-        <td bgcolor="babypink">FWAD</td>
-        <td bgcolor="babypink">SOFT</td>
-        <td bgcolor="babypink">FREE SLOT</td>
-        <td bgcolor="babypink">CDS</td>
-        <td colspan="2" bgcolor="babypink">FREE SLOT</td>
+        <td bgcolor="babypink">Japanese</td>
+        <td bgcolor="babypink">cyber law</td>
+        <td bgcolor="babypink">free slot</td>
+        <td bgcolor="babypink">free slot</td>
+        <td colspan="2" bgcolor="babypink">free slot</td>
     </tr>
     <tr>
         <td bgcolor="cyan">3 - 4:30</td>
-        <td bgcolor="babypink">CRY</td>
-        <td bgcolor="babypink">CRY</td>
-        <td colspan="3" bgcolor="babypink">FREE SLOT</td>
+        <td bgcolor="babypink">CRPTO</td>
+        <td bgcolor="babypink">CRPTO</td>
+        <td colspan="3" bgcolor="babypink">free slot</td>
         <td bgcolor="babypink">JAP</td
     </tr>
 
@@ -103,8 +103,8 @@ slot.html
      </tr>
      <tr>
         <td>2.</td>
-        <td>19AI301</td>
-        <td>Python programming(PYTHON)</td>
+        <td>19CS547</td>
+        <td>cryptocurrency(crpto)</td>
         
      </tr>
      <tr>
@@ -124,17 +124,6 @@ slot.html
 </tr>
 <tr>
     <td>6.</td>
-    <td>19MA220</td>
-    <td>Mathematics for artificial intelligence(MATH AI)</td>
-</tr>
-
-<tr>
-    <td>7.</td>
-    <td>19EY708</td>
-    <td>Career development skill(CDS)</td>
-</tr>
-<tr>
-    <td>8.</td>
     <td>19EE305</td>
     <td>cyber law(CYL)</td>
 </tr>
@@ -144,7 +133,8 @@ slot.html
 
     </body>
 </html>
-```
+
+
 
 
 ## OUTPUT
