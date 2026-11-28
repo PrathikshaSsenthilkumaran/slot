@@ -70,10 +70,10 @@ slot.html
         <td bgcolor="cyan">1:15 - 2:45</td>
         <td bgcolor="babypink">Japanese</td>
         <td bgcolor="babypink">cyber law</td>
+        <td bgcolor="babypink">free slot </td>
         <td bgcolor="babypink">free slot</td>
-        <td bgcolor="babypink">free slot</td>
-        <td colspan="2" bgcolor="babypink">free slot</td>
-    </tr>
+        <td bgcolor="babypink">web application</td>
+        </tr>
     <tr>
         <td bgcolor="cyan">3 - 4:30</td>
         <td bgcolor="babypink">CRPTO</td>
@@ -81,6 +81,12 @@ slot.html
         <td colspan="3" bgcolor="babypink">free slot</td>
         <td bgcolor="babypink">JAP</td
     </tr>
+
+        
+        
+
+        
+    
 
 
 
@@ -137,9 +143,9 @@ slot.html
 
 
 
+OUTPUT
+![alt text](<Screenshot (36).png>)## OUTPUT
 
-## OUTPUT
-![alt text](<Screenshot (33).png>)
 
 
 
