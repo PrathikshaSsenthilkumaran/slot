@@ -72,6 +72,7 @@ slot.html
         <td bgcolor="babypink">cyber law</td>
         <td bgcolor="babypink">free slot </td>
         <td bgcolor="babypink">free slot</td>
+         <td bgcolor="babypink">web application</td>
         <td bgcolor="babypink">web application</td>
         </tr>
     <tr>
